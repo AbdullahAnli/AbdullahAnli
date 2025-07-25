@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bilgisayar Mühendisliği mezunu bir yazılım geliştiricisiyim.<br>Java, Java, Spring Boot, Spring MVC, Hibernate ve RESTful API'ler ile backend projeler geliştiriyorum.<br>Ayrıca web uygulamaları geliştirirken React.js gibi modern frontend teknolojileriyle de ilgileniyorum.<br><br>💻 Şu anda aktif olarak:<br><br>Java | Spring Boot | Hibernate | MySQL ile projeler geliştiriyorum<br><br>RESTful API'ler yazıyor ve güvenli uygulamalar inşa ediyorum<br><br>Takım projelerinde Git ve GitHub'ı etkin bir şekilde kullanıyorum
+Bilgisayar Mühendisliği mezunu bir yazılım geliştiricisiyim.<br> Java, Spring Boot, Spring MVC, Hibernate ve RESTful API'ler ile backend projeler geliştiriyorum.<br>Ayrıca web uygulamaları geliştirirken React.js gibi modern frontend teknolojileriyle de ilgileniyorum.<br><br>💻 Şu anda aktif olarak:<br><br>Java | Spring Boot | Hibernate | MySQL ile projeler geliştiriyorum<br><br>RESTful API'ler yazıyor ve güvenli uygulamalar inşa ediyorum<br><br>Takım projelerinde Git ve GitHub'ı etkin bir şekilde kullanıyorum
 
 
 ## 🌐 Socials:
